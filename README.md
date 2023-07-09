@@ -1,4 +1,12 @@
 # Dog-Vision
-Dog-Breed-Classification-through-Images
+Given an image of a dog, this project identifies it's breed.
 
-This project aims at predicting the breed of the dogs through their images.
+Tech Stacks:
+Python
+Google Colab
+TensorFlow 2.0
+Keras API
+Scikit-Learn
+Pandas
+Numpy
+Matplotlib
